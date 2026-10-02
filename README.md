@@ -1,3 +1,5 @@
+![Pratham Vyas — backend systems and full-stack development](assets/profile-animation.gif)
+
 # Hi, I'm Pratham Vyas
 
 Software engineer at **Cognizant**, focused on **C#/.NET, Azure, and full-stack applications**.
